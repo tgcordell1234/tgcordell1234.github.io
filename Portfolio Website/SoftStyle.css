@@ -1,0 +1,8 @@
+@charset "utf-8";
+.soft_style {
+    color: #B92200;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bolder;
+}

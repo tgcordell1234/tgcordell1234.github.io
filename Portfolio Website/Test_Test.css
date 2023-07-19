@@ -1,0 +1,6 @@
+@charset "utf-8";
+.test_css {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+}
